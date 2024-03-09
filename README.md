@@ -14,4 +14,6 @@
 
 ## Features
 
--   TODO
+-   Visualize raster and vector data 
+-   Analyze raster and vector data 
+-   Print out useful message
