@@ -1,4 +1,6 @@
 numpy
 ipyleaflet
+shapefile
+geopandas
 
 
