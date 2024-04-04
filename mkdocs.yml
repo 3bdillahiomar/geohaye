@@ -103,13 +103,9 @@ nav:
         - GitHub:
             icon: fab fa-github
             url: https://github.com/3bdillahiomar/geohaye
-        - Twitter:
-            icon: fab fa-twitter
-            url: https://twitter.com/3bdillahi
         - LinkedIn:
             icon: fab fa-linkedin
             url: https://www.linkedin.com/in/abdillahi-osman-omar-7b2724173/
         - Email: 
             icon: far fa-envelope
             url: mailto:abdillahiosmanomar@student.utwente.nl
-            
