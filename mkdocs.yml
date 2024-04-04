@@ -79,9 +79,39 @@ nav:
     - FAQ: faq.md
     - Changelog: changelog.md
     - Report Issues: https://github.com/3bdillahiomar/geohaye/issues
-    - Examples:
-        - examples/intro.ipynb
-        - examples/random.ipynb
     - API Reference:
           - geohaye module: geohaye.md
           - common module: common.md
+          - utils module: utils.md
+    - Examples:
+        - examples/demo.ipynb
+        - examples/intro.ipynb
+        - examples/random.ipynb
+        - examples/csv.ipynb
+        - examples/vector.ipynb
+        - examples/ipyleaflet.ipynb
+
+    - Python Basics: 
+
+    - About:
+        - License: license.md
+        - Acknowledgements: acknowledgements.md
+        - Release Notes: release_notes.md
+        - Code of Conduct: code_of_conduct.md
+        - Privacy Policy: privacy_policy.md
+        - Terms of Service: terms_of_service.md
+    
+    - External Links:
+        - GitHub:
+            icon: fab fa-github
+            url:https://github.com/3bdillahiomar/geohaye
+        - Twitter:
+            icon: fab fa-twitter
+            url: https://twitter.com/3bdillahi
+        - LinkedIn:
+            icon: fab fa-linkedin
+            url: https://www.linkedin.com/in/abdillahi-osman-omar-7b2724173/
+        - Email: 
+            icon: far fa-envelope
+            url: mailto:abdillahiosmanomar@student.utwente.nl
+            
