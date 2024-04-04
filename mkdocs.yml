@@ -50,7 +50,7 @@ plugins:
           execute: True
           allow_errors: false
           ignore: ["conf.py"]
-          execute_ignore: ["*ignore.ipynb"]
+          execute_ignore: ["examples/csv.ipynb", "examples/vector.ipynb", "examples/ipyleaflet.ipynb", "examples/demo.ipynb", "examples/intro.ipynb", "examples/random.ipynb"]
           
 markdown_extensions:
     - admonition
