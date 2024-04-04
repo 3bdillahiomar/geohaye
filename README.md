@@ -24,6 +24,3 @@ GeoHaye is equipped with functionalities that cater to both raster and vector da
 GeoHaye isn't just a tool for current geospatial analysis needs; it's also built with the future in mind. Its simplicity and flexibility make it an ideal candidate for testing and developing future products that rely on geospatial data.
 
 Whether you're a student, researcher, or professional working with geospatial data, GeoHaye offers a straightforward yet powerful platform to support your projects. Dive into the world of geospatial analysis with GeoHaye and unlock the full potential of your data today.
-
-
-![ABDILLAHI OSMAN LOGO](https://github.com/3bdillahiomar/geohaye/assets/128916651/2b388144-8046-4ac8-a566-c41f81218ab5)
