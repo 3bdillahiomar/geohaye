@@ -89,7 +89,9 @@ nav:
         - examples/intro.ipynb
         - examples/csv.ipynb
         - examples/vector.ipynb
+        - examples/raster.ipynb
         - examples/ipyleaflet.ipynb
+        - examples/ipywidgets.ipynb
     - Python Basics:
           - python/01_getting_started.ipynb
           - python/02_variables_data_types.ipynb
