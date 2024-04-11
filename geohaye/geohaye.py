@@ -168,5 +168,11 @@ class Map(ipyleaflet.Map):
         """
         control = ipyleaflet.WidgetControl(widget=widget, position=position)
         self.add(control)
+    
+
+# Package is under development
+# Omar Abdillahi (c) 2024
+# MIT License
+
 
     
