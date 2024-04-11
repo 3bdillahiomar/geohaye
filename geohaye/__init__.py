@@ -2,6 +2,6 @@
 
 __author__ = """Abdillahi Osman Omar"""
 __email__ = "abdillahiosmanomar@student.utwente.nl"
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 from .geohaye import Map
