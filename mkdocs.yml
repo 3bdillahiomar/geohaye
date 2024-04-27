@@ -51,7 +51,8 @@ plugins:
           allow_errors: false
           ignore: ["conf.py"]
           execute_ignore: ["examples/csv.ipynb", "examples/vector.ipynb", "examples/raster.ipynb", "examples/ipyleaflet.ipynb", "examples/demo.ipynb", "examples/intro.ipynb", 
-          "examples/random.ipynb", 'examples/ipywidgets.ipynb', "examples/ipyleaflet.ipynb", 'python/10_files_and_exceptions.ipynb', 'examples/toolbar.ipynb']
+          "examples/random.ipynb", 'examples/ipywidgets.ipynb', "examples/ipyleaflet.ipynb", 'python/10_files_and_exceptions.ipynb', 'examples/toolbar.ipynb'
+          'examples/foliumap.ipynb']
           
 markdown_extensions:
     - admonition
