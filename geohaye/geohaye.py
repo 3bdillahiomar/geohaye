@@ -12,7 +12,7 @@ class Map(ipyleaflet.Map):
         ipyleaflet (Map): The ipyleaflet.Map class.
     """
 
-    def __init__(self, center=[20, 0], zoom=2, **kwargs):
+    def __init__(self, center=[9.562389, 44.077011], zoom=2, **kwargs):
         """Initialize the map.
 
         Args:
