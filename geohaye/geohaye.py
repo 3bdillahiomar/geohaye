@@ -286,7 +286,7 @@ class Map(ipyleaflet.Map):
         output_control = WidgetControl(widget=output, position="bottomright")
         self.add(output_control)
 
-        def toolbar_callback(change):
+    def toolbar_callback(change):
             if change.icon == "folder-open":
                 with output:
                     output.clear_output()
@@ -300,9 +300,10 @@ class Map(ipyleaflet.Map):
                     output.clear_output()
                     print(f"Icon: {change.icon}")
 
-        for tool in grid.children:
-            tool.on_click(toolbar_callback)
+            for tool in grid.children:
+                tool.on_click(toolbar_callback)
 
+    
 
 # Package is under development
 # Omar Abdillahi (c) 2024
